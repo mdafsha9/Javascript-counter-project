@@ -3,7 +3,16 @@ main{
   text-align:center;
   margin:300px 0px 0px 40%;
   border:2px solid grey;
-  max-width:200px;
+  max-width:300px;
   border-radius:5px;
   box-shadow:2px 3px 5px grey;
+}
+main h1, span{
+  font-size:50px;
+  letter-spacing:3px;
+}
+.container .btn{
+  padding:5px 10px;
+  margin:20px 10px;
+  font-weight:bold;
 }
